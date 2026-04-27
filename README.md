@@ -33,8 +33,9 @@
 ##
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=losdn&rank_icon=github&show_icons=true&theme=radical&title_color=ff91a4&icon_color=ff91a4&count_private=true">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=losdn&layout=compact&theme=radical&title_color=ff91a4&count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=losdn&show_icons=true&rank_icon=github&theme=radical&title_color=ff91a4&icon_color=ff91a4&text_color=FFF9E1&rank_color=FFF9E1&count_private=true">
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=losdn&layout=compact&theme=radical&title_color=ff91a4&text_color=FFF9E1&count_private=true">
 </div>
 
 <div align="center">
