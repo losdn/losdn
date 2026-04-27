@@ -6,11 +6,10 @@
   </a>
 </div>
 
-<br>
-
 ##
 
-<img align="right" alt="" height="190px" src="./src/avatar.gif">
+<br><br>
+<img align="right" alt="" height="210px" src="./avatar_circle.gif">
 
 📌 Graduanda em Ciência da Computação (previsão dez/2026) <br>
 📌 Me especializo em dados com ênfase em automação e IA <br>
@@ -23,7 +22,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/IA-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </div>
 
 #####  Contatos:
@@ -41,12 +40,13 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=losdn&layout=compact&theme=radical&title_color=ff91a4&count_private=true">
 </div>
 
-##
 
-<picture align="center">
+<div align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/losdn/losdn/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/losdn/losdn/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/losdn/losdn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/losdn/losdn/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
