@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=ff91a4&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1+%F0%9F%91%8B;%E2%8A%B9+Eu+sou+a+Lorraine!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;%E2%8A%B9+Seja+bem-vindo(a)+ao+meu+reposit%C3%B3rio!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9" alt="Typing SVG">
@@ -8,24 +7,22 @@
 
 ##
 
-<br><br>
-<img align="right" alt="" height="210px" src="./avatar_circle.gif">
-
 📌 Graduanda em Ciência da Computação (previsão dez/2026) <br>
 📌 Me especializo em dados com ênfase em automação e IA <br>
 📌 Crio dashboards interativos para visualização de KPIs <br>
 📌 Sempre em busca de aprendizado e evolução profissional!
 
-#####  Minha Stack:
+##### Minha Stack:
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="./avatar_circle.gif" width="150px" align="right" />
 </div>
 
-#####  Contatos:
+##### Contatos:
 <div>
   <a href="mailto:losdn@outlook.com.br"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/losdn/">
@@ -39,7 +36,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=losdn&rank_icon=github&show_icons=true&theme=radical&title_color=ff91a4&icon_color=ff91a4&count_private=true">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=losdn&layout=compact&theme=radical&title_color=ff91a4&count_private=true">
 </div>
-
 
 <div align="center">
 <picture>
