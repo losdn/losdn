@@ -7,10 +7,10 @@
 
 ##
 
-✔️ Graduanda em Ciência da Computação (previsão dez/2026) <br>
-✔️ Me especializo em dados com ênfase em automação e IA <br>
-✔️ Crio dashboards interativos para visualização de KPIs <br>
-✔️ Sempre em busca de aprendizado e evolução profissional!
+💜 Graduanda em Ciência da Computação (previsão dez/2026) <br>
+💜 Me especializo em dados com ênfase em automação e IA <br>
+💜 Crio dashboards interativos para visualização de KPIs <br>
+💜 Sempre em busca de aprendizado e evolução profissional!
 
 ##### Minha Stack:
 <div>
