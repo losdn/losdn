@@ -1,7 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=20&section=header"/>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=B44FFF&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1+%F0%9F%91%8B;%E2%8A%B9+Eu+sou+a+Lorraine!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;%E2%8A%B9+Seja+bem-vindo(a)+ao+meu+reposit%C3%B3rio!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=B44FFF&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1+%F0%9F%91%8B%F0%9F%8F%BB;%E2%8A%B9+Eu+sou+a+Lorraine!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;%E2%8A%B9+Seja+bem-vindo(a)+ao+meu+reposit%C3%B3rio!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
 
