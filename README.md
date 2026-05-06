@@ -32,9 +32,9 @@
 ##
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=losdn&show_icons=true&rank_icon=github&theme=radical&title_color=B44FFF&icon_color=4D6FD4&text_color=FFFFFF&rank_color=FFFFFF&count_private=true">
+  <img height="165" src="https://github-readme-stats-knusjmz5d-losdns-projects.vercel.app/api?username=losdn&show_icons=true&rank_icon=github&theme=radical&title_color=B44FFF&icon_color=4D6FD4&text_color=FFFFFF&rank_color=FFFFFF&count_private=true">
   
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=losdn&layout=compact&theme=radical&title_color=B44FFF&text_color=FFFFFF&count_private=true">
+  <img height="165" src="https://github-readme-stats-knusjmz5d-losdns-projects.vercel.app/api/top-langs/?username=losdn&layout=compact&theme=radical&title_color=B44FFF&text_color=FFFFFF&count_private=true">
 </div>
 
 <div align="center">
