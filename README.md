@@ -34,7 +34,7 @@
 <div align="center">
   <img height="165" src="https://github-readme-stats-beta-sage-40.vercel.app/api?username=losdn&show_icons=true&rank_icon=github&theme=radical&title_color=B44FFF&icon_color=4D6FD4&text_color=FFFFFF&rank_color=FFFFFF&count_private=true">
   
-  <img height="165" src="https://github-readme-stats-beta-sage-40.vercel.app/api/top-langs/?username=losdn&layout=compact&theme=radical&title_color=B44FFF&text_color=FFFFFF&count_private=true">
+  <img height="165" src="https://github-readme-stats-beta-sage-40.vercel.app/api/top-langs/?username=losdn&layout=compact&theme=radical&title_color=B44FFF&text_color=FFFFFF&count_private=true&exclude_repo=github-readme-stats&hide=typescript&langs_count=10&v=3">
 </div>
 
 <div align="center">
